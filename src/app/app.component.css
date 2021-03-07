@@ -1,0 +1,7 @@
+.appTitle{
+    padding: 20px;
+    background-image: linear-gradient(to bottom, #8fb1e5, #b2c2eb, #d0d5f1, #e9e9f8, #ffffff);
+    width: 100%;
+    text-align: right;
+    text-shadow: 2px 2px 2px #6E6E6E;
+}
