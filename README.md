@@ -1,8 +1,10 @@
 # PaisesApp
 
-Esta App consume servicios de https://restcountries.eu/ para listar los países con su información.
+Permite la búsqueda de países por su nombre, por su capital y región (continente).
 
-Búsqueda de países, por su nombre, por su capital.
+
+
+Esta App consume servicios de https://restcountries.eu/ para listar los países con su información.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
